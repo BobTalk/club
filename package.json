@@ -1,5 +1,5 @@
 {
-  "name": "club2",
+  "name": "club",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "qiankun": "^2.10.16",
     "vue": "^3.2.13",
     "vue-class-component": "^8.0.0-0",
     "vue-router": "^4.0.3",
